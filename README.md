@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @akamezstuff
-- 👀 I’m interested in coding, i guess
-- 🌱 I’m currently learning html
-- 💞️ I’m looking to collaborate on idk
-- 📫 How to reach me discord akamez_no
+- 👋 Hi, I’m krit
+- 👀 I’m interested in linux
+- 🌱 I’m currently learning javascript exploiting
+- 💞️ I’m looking to collaborate on an operating system
+- 📫 How to reach me : maybe message me on discord @kr1tikal_0
 
 <!---
 akamezstuff/akamezstuff is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
